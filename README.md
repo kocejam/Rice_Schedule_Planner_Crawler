@@ -5,7 +5,9 @@ The schedule planner that most student use at my university has course reviews f
 ## Prerequisites
 
 -Python 2.7
--Selenium
--ChromeDriver
--Beautiful Soup
 
+-Selenium
+
+-ChromeDriver
+
+-Beautiful Soup

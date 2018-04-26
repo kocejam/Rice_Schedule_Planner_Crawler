@@ -85,8 +85,8 @@ def getData(soup):
 
     return line
 
-usr = "mdk4"
-pwd = "Pickles12!"
+usr = raw_input("username: ")
+pwd = raw_input("password: ")
 
 dist = "dist 2"
 
